@@ -10,7 +10,7 @@ const Footer=()=>{
         <div className={styles.item}>
           <div className={styles.card}>
             <h2 className={styles.motto}>
-              PİZZA BİZDEN SORULUR.BİZİMKİNİ YEMEDEN ÖLMEYİN!
+              Şehirinizdeki en iyi pizza burada!
             </h2>
           </div>
           <div className={styles.card}>

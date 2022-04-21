@@ -4,9 +4,9 @@ import PizzaCard from "./PizzaCard"
 const PizzaList = ({pizzaList}) => {
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>Hiç Bizimkinden Tattınız mı?</h1>
+      <h1 className={styles.title}>Pizza Çeşitlerimiz </h1>
       <p className={styles.desc}>
-        Bu pizzalar al beğenmezsen gel beni silk.En son pizzayı yaparken am teri kullandık.   Bu pizzalar al beğenmezsen gel beni silk.En son pizzayı yaparken am teri kullandık.   Bu pizzalar al beğenmezsen gel beni silk.En son pizzayı yaparken am teri kullandık.
+        Şehrin en iyi pizzalarını satmaktan gurur duyuyoruz. Kaliteli ve uygun fiyata tadabileceğiniz en iyi pizzalar burada!!!!
       </p>
       <div className={styles.wrapper}>
         {pizzaList.map((pizza)=>(
