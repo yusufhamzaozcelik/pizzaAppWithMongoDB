@@ -2,6 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Mongodb ile pizza uygulaması
 
-Aşağıdaki linkten uygulamanın nasıl çalıştığını görebilirsiniz.
+Aşağıdaki görsele tıklayarak uygulamanın nasıl çalıştığını görebilirsiniz.
 
 [![Watch the video](https://i.hizliresim.com/lwfoog7.png)](https://youtu.be/pKsUcm52YTs)
