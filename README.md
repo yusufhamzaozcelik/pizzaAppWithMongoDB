@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Aşağıdaki linkten uygulamanın nasıl çalıştığını görebilirsiniz.
 
-[![Watch the video](https://i.hizliresim.com/lwfoog7.png)](https://drive.google.com/file/d/1VjO8hkgpxPqfaqxdF2UMDt_tUeMy2Bp2/view?usp=sharing)
+[![Watch the video](https://i.hizliresim.com/lwfoog7.png)](https://youtu.be/pKsUcm52YTs)
