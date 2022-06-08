@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Aşağıdaki görsele tıklayarak uygulamanın nasıl çalıştığını görebilirsiniz.
 
-[![Watch the video](https://i.hizliresim.com/mtdarvy.png)](https://youtu.be/pKsUcm52YTs)
+[![Watch the video](https://i.hizliresim.com/8fqzmtv.png)](https://youtu.be/pKsUcm52YTs)
